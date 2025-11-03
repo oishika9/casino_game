@@ -1,6 +1,4 @@
-# CasinoRoyale
-
-## COMP303 project. Casino Royale is a Virtual Entertainment Hub where players can experience a lively and engaging environment inside an interactive casino-themed virtual space.
+Casino Royale is a Virtual Entertainment Hub where players can experience a lively and engaging environment inside an interactive casino-themed virtual space.
 
 MAIN DESIGN PATTERNS USED:
 -Singleton: Ensures one instance of components like DJ, BalanceManager, and Scoreboard
